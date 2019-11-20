@@ -34,7 +34,7 @@ DTR, RTS を利用して ESP8266(ESP-WROOM-02) のリセットを制御。Arduin
 | LED1           | VF=1.9～2.1V(1608) | オレンジ色チップLED                         | 秋月電子 | [I-06416](http://akizukidenshi.com/catalog/g/gI-06416/)          |
 | LED2           | VF=1.9～2.1V(1608) | 黄緑色チップLED                             | 秋月電子 | [I-03980](http://akizukidenshi.com/catalog/g/gI-03980)           |
 | LED3           | VF=1.9～2.1V(1608) | 赤色チップLED                               | 秋月電子 | [I-03978](http://akizukidenshi.com/catalog/g/gI-03978)           |
-| CON1           | ZHコネクタ6ピン    | S6B-ZR                                      | 秋月電子 | [C-14164](http://akizukidenshi.com/catalog/g/gC-14164/)          |
+| CON1           | ZHコネクタ6ピン    | S6B-ZR                                      | 秋月電子 | [C-14164](http://akizukidenshi.com/catalog/g/gC-14164/) ワイヤ直付けでもよいと思います         |
 | Q1/Q2          |                    | LMUN2233LT1G                                | eBay     | https://www.ebay.com/itm/262770111020                            |
 |                | E40X18.5X9.6B      | USBプラケース                               | aitendo  | http://www.aitendo.com/product/16537                             |
 
