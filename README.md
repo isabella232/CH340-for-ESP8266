@@ -28,7 +28,7 @@ DTR, RTS を利用して ESP8266(ESP-WROOM-02) のリセットを制御。Arduin
 | C3             | 0.1uF50V(1608)     | 積セラコンデンサ GRM188F11H104ZA01          | 秋月電子 | [P-13374](http://akizukidenshi.com/catalog/g/gP-13374/)          |
 | C4/C5          | 10uF25V(2012)      | 積セラコンデンサ GRM21BB31E106KA            | 秋月電子 | [P-13388](http://akizukidenshi.com/catalog/g/gP-13388/)          |
 | IC1            |                    | USB-シリアルコンバータ CH340G               | aitendo  | http://www.aitendo.com/product/11576                             |
-| C6             | 22uF25V            | 積セラコンデンサ GRM21BR61E226ME44          | 秋月電子 | [P-08240](http://akizukidenshi.com/catalog/g/gP-08240/)          |
+| C6             | 22uF25V(1608)            | 積セラコンデンサ GRM21BR61E226ME44          | 秋月電子 | [P-08240](http://akizukidenshi.com/catalog/g/gP-08240/) 47uF がいいかも [mouser](https://www.mouser.jp/Passive-Components/Capacitors/Ceramic-Capacitors/MLCCs-Multilayer-Ceramic-Capacitors/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT/_/N-bkrdv?P=1z0wrk9Z1yx4avtZ1yzmou5)        |
 | IC2            | 3.3V               | レギュレータ AMS1117-3.3 や AZ1086H-3.3     | 秋月電子 | [I-02502](http://akizukidenshi.com/catalog/g/gI-02502/)          |
 | R1/R2/R3/R4/R5 | 470Ω(1608)         | チップ抵抗                                  | 千石電商 | https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57GC |
 | LED1           | VF=1.9～2.1V(1608) | オレンジ色チップLED                         | 秋月電子 | [I-06416](http://akizukidenshi.com/catalog/g/gI-06416/)          |
